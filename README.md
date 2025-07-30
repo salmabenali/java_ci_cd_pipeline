@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Setup using below tools
 
 1) Maven - Build tool
@@ -19,3 +20,6 @@ sudo apt install fontconfig openjdk-17-jre
 java -version
 ```
 
+=======
+# java_ci_cd_pipeline
+>>>>>>> c517d900ca60fb1744f80ad66be6a800a5740fc3
