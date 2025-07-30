@@ -433,7 +433,7 @@
         <div class="hero-content">
             <h1>Paradise Resort</h1>
             <p>L'élégance rencontre le paradis tropical</p>
-            <a href="#chambres" class="cta-button">Découvrir nos Suites</a>
+            <a href="#chambres" class="cta-button">Decouvrir nos Suites</a>
         </div>
     </section>
 
