@@ -417,7 +417,7 @@
     <!-- Navigation -->
     <nav class="navbar">
         <div class="nav-container">
-            <div class="logo">Paradise Resort</div>
+            <div class="logo"> Paradiiise Resort </div>
             <ul class="nav-links">
                 <li><a href="#accueil">Accueil</a></li>
                 <li><a href="#chambres">Chambres</a></li>
