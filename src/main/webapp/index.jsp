@@ -431,8 +431,8 @@
     <!-- Hero Section -->
     <section id="accueil" class="hero">
         <div class="hero-content">
-            <h1>Paradise Resort</h1>
-            <p>L'élégance rencontre le paradis tropical</p>
+            <h1> Paradise Resort</h1>
+            <p>L'elegance rencontre le paradis tropical</p>
             <a href="#chambres" class="cta-button">Decouvrir nos Suites</a>
         </div>
     </section>
